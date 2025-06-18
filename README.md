@@ -76,7 +76,7 @@ YOLOv8 + LLM system for insurance doc processing and OCR translation, 90%+ accur
 
 ## 📫 Let’s Connect!
 
-- 🧠 Currently mentoring and researching smart warehouse AI @ **CITI NTUST, Taiwan**
+- 🧠 Currently researching smart warehouse AI @ **CITI NTUST, Taiwan**
 - 🤝 Open to collaboration in **AI Research**, **LLM Apps**, or **Reinforcement Learning**
 - 🌍 Exploring the intersection of **AI + Optimization + Robotics**
 
