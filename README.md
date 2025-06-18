@@ -17,7 +17,7 @@ I'm a passionate **AI/ML Engineer** focused on solving real-world complexity usi
 - 🛠️ **LLM applications** with document understanding, RAG & GenAI
 - 🛰️ Researching collaborative AI for **smart warehouses** & **energy systems**
 
-Currently, I’m a **AI Research Intern** at **CITI NTUST Taiwan**, working on intelligent coordination for smart warehouse robots.
+Currently, I’m an **AI Research Intern** at **CITI NTUST, Taiwan**, working on intelligent coordination for smart warehouse robots.
 
 ---
 
