@@ -35,6 +35,12 @@ Currently, I’m an **AI Research Intern** at **CITI NTUST, Taiwan**, working on
 **LLMs, RAG & GenAI:**  
 ![LangChain](https://img.shields.io/badge/-LangChain-0A0A0A?logo=Chainlink&logoColor=white&style=flat) ![LangGraph](https://img.shields.io/badge/-LangGraph-5E35B1?logo=figma&logoColor=white&style=flat) ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-FFD54F?logo=alpaca&logoColor=black&style=flat)
 
+**Experiment Tracking & MLOps:**  
+![TensorBoard](https://img.shields.io/badge/-TensorBoard-FF6F00?logo=tensorflow&logoColor=white&style=flat) ![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?logo=wandb&logoColor=black&style=flat) ![MLflow](https://img.shields.io/badge/-MLflow-4A90E2?logo=mlflow&logoColor=white&style=flat)
+
+**Frontend for ML Apps:**  
+![Gradio](https://img.shields.io/badge/-Gradio-FF5E57?logo=gradio&logoColor=white&style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+
 **Tools & Frameworks:**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?logo=python&logoColor=white&style=flat) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=flat)
 
