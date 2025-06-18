@@ -53,19 +53,19 @@ Currently, I’m an **AI Research Intern** at **CITI NTUST, Taiwan**, working on
 
 ### 🤖 **Smart Warehouse Path Planning**
 Multi-agent DRL for warehouse robot coordination. Reduced traffic congestion while increasing energy efficiency and order throughput.  
-`NetLogo + Python + PyTorch`
+`NetLogo + Python + PyTorch + NetworkX`
 
 ### 🛢️ **Crude Oil Futures Trading Agent**
 Built A2C/PPO/DDQN agents with hierarchical strategies & Sharpe-ratio-based evaluation.  
-`Gymnasium + RLlib + Pandas + Matplotlib`
+`Gymnasium + PyTorch + Pandas + Weights and Biases + MLFlow`
 
 ### 📰 **Semantic News Analyzer for Oil Markets**
 Used few-shot learning + entailment modeling, using DistilRoBERTa for geopolitical impact detection.  
-`Transformers + HuggingFace + Pytorch + Custom Dataset`
+`Transformers + HuggingFace + PyTorch + Custom Dataset`
 
 ### 📄 **LLM-Powered Document OCR & Verification**
 YOLOv8 + LLM system for insurance doc processing and OCR translation, 90%+ accuracy.  
-`YOLOv8 + Tesseract + LangChain + FastAPI`
+`YOLOv8 + Marker + LangGraph + LlamaIndex + FastAPI + Gradio`
 
 ---
 
