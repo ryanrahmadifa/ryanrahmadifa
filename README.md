@@ -83,8 +83,8 @@ Currently, I’m an **AI Research Intern** at **CITI NTUST, Taiwan**, working on
   <tr>
     <th>Cloud & DevOps</th>
     <th>BI & Visualization</th>
-    <td>Tools & Frameworks</td>
-    <td>Databases & Pipelines</td>
+    <th>Tools & Frameworks</th>
+    <th>Databases & Pipelines</th>
   </tr>
   <tr>
     <td>
@@ -119,7 +119,7 @@ Currently, I’m an **AI Research Intern** at **CITI NTUST, Taiwan**, working on
 
 <table>
   <tr>
-    <td width="25%"><strong>🤖 Smart Warehouse Path Planning</strong></td>
+    <td width="25%"><strong>Smart Warehouse Path Planning</strong></td>
     <td>
       <p>Multi-agent DRL for warehouse robot coordination.<br>
       Reduced traffic congestion while increasing energy efficiency and order throughput.</p>
@@ -128,7 +128,7 @@ Currently, I’m an **AI Research Intern** at **CITI NTUST, Taiwan**, working on
   </tr>
 
   <tr>
-    <td><strong>🛢️ Crude Oil Futures Trading Agent</strong></td>
+    <td><strong>Crude Oil Futures Trading Agent</strong></td>
     <td>
       <p>Built A2C / PPO / DDQN agents with hierarchical strategies and Sharpe-ratio-based evaluation for high-stakes crude oil markets.</p>
       <kbd>Gymnasium</kbd> · <kbd>PyTorch Lightning</kbd> · <kbd>Pandas</kbd> · <kbd>Weights & Biases</kbd> · <kbd>MLflow</kbd>
@@ -136,7 +136,7 @@ Currently, I’m an **AI Research Intern** at **CITI NTUST, Taiwan**, working on
   </tr>
 
   <tr>
-    <td><strong>📰 Semantic News Analyzer for Oil Markets</strong></td>
+    <td><strong>Semantic News Analyzer for Oil Markets</strong></td>
     <td>
       <p>Used few-shot learning and entailment modeling with DistilRoBERTa to detect geopolitical impact from oil market news.</p>
       <kbd>Transformers</kbd> · <kbd>HuggingFace</kbd> · <kbd>PyTorch</kbd> · <kbd>Custom Dataset</kbd>
@@ -144,7 +144,7 @@ Currently, I’m an **AI Research Intern** at **CITI NTUST, Taiwan**, working on
   </tr>
 
   <tr>
-    <td><strong>📄 LLM-Powered Document OCR & Verification</strong></td>
+    <td><strong>LLM-Powered Document OCR & Verification</strong></td>
     <td>
       <p>YOLOv8 and LLM pipeline for automated insurance document processing and OCR-based translation, achieving 90%+ accuracy.</p>
       <kbd>YOLOv8</kbd> · <kbd>Marker</kbd> · <kbd>LangGraph</kbd> · <kbd>LlamaIndex</kbd> · <kbd>FastAPI</kbd> · <kbd>Gradio</kbd>
