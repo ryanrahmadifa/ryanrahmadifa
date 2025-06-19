@@ -117,21 +117,41 @@ Currently, I’m an **AI Research Intern** at **CITI NTUST, Taiwan**, working on
 
 ## 🔬 Featured Projects
 
-### 🤖 **Smart Warehouse Path Planning**
-Multi-agent DRL for warehouse robot coordination. Reduced traffic congestion while increasing energy efficiency and order throughput.  
-`NetLogo + Python + PyTorch + NetworkX`
+<table>
+  <tr>
+    <td width="25%"><strong>🤖 Smart Warehouse Path Planning</strong></td>
+    <td>
+      <p>Multi-agent DRL for warehouse robot coordination.<br>
+      Reduced traffic congestion while increasing energy efficiency and order throughput.</p>
+      <kbd>NetLogo</kbd> · <kbd>Python</kbd> · <kbd>PyTorch</kbd> · <kbd>NetworkX</kbd>
+    </td>
+  </tr>
 
-### 🛢️ **Crude Oil Futures Trading Agent**
-Built A2C/PPO/DDQN agents with hierarchical strategies & Sharpe-ratio-based evaluation.  
-`Gymnasium + PyTorch + Pandas + Weights and Biases + MLFlow`
+  <tr>
+    <td><strong>🛢️ Crude Oil Futures Trading Agent</strong></td>
+    <td>
+      <p>Built A2C / PPO / DDQN agents with hierarchical strategies and Sharpe-ratio-based evaluation for high-stakes crude oil markets.</p>
+      <kbd>Gymnasium</kbd> · <kbd>PyTorch Lightning</kbd> · <kbd>Pandas</kbd> · <kbd>Weights & Biases</kbd> · <kbd>MLflow</kbd>
+    </td>
+  </tr>
 
-### 📰 **Semantic News Analyzer for Oil Markets**
-Used few-shot learning + entailment modeling, using DistilRoBERTa for geopolitical impact detection.  
-`Transformers + HuggingFace + PyTorch + Custom Dataset`
+  <tr>
+    <td><strong>📰 Semantic News Analyzer for Oil Markets</strong></td>
+    <td>
+      <p>Used few-shot learning and entailment modeling with DistilRoBERTa to detect geopolitical impact from oil market news.</p>
+      <kbd>Transformers</kbd> · <kbd>HuggingFace</kbd> · <kbd>PyTorch</kbd> · <kbd>Custom Dataset</kbd>
+    </td>
+  </tr>
 
-### 📄 **LLM-Powered Document OCR & Verification**
-YOLOv8 + LLM system for insurance doc processing and OCR translation, 90%+ accuracy.  
-`YOLOv8 + Marker + LangGraph + LlamaIndex + FastAPI + Gradio`
+  <tr>
+    <td><strong>📄 LLM-Powered Document OCR & Verification</strong></td>
+    <td>
+      <p>YOLOv8 and LLM pipeline for automated insurance document processing and OCR-based translation, achieving 90%+ accuracy.</p>
+      <kbd>YOLOv8</kbd> · <kbd>Marker</kbd> · <kbd>LangGraph</kbd> · <kbd>LlamaIndex</kbd> · <kbd>FastAPI</kbd> · <kbd>Gradio</kbd>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
