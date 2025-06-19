@@ -38,6 +38,7 @@ Currently, I’m an **AI Research Intern** at **CITI NTUST, Taiwan**, working on
     </td>
     <td>
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat"><br>
+      <img src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white"><br>
       <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat"><br>
       <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat"><br>
     </td>
